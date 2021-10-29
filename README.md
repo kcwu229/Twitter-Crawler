@@ -1,4 +1,7 @@
-# Twitter-Crawler
+# Twitter-Crawler  (for self-studying purpose)
+The GUI interface design using @Wanderson-Magalhaes's modern GUI model on Qt
+
+
 ETL on Twitter
 
 HEY, I WANT TO SHARE THIS to you !!!
@@ -25,3 +28,5 @@ In struction are provide in every page to guide you what to do.
 And with simply interface and operation, which is easy and high efficient to use this.
 
 To look for tutorials, feel free to read the PDF file for how to use.
+
+:)
