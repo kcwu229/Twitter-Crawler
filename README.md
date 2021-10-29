@@ -7,9 +7,7 @@ ARE you one of student of statistic ? Or are you one of the researchers investig
 
 If yes, then you should try on this application !!!
 
-
-![222](https://user-images.githubusercontent.com/79691025/139416430-358b35f9-be23-49b0-a337-d7fe16525495.PNG)
-
+![擷取](https://user-images.githubusercontent.com/79691025/139417738-12846d52-1ad3-4c2a-b1af-43ea8c4a0f23.PNG)
 
 In here, you can:
 
