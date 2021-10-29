@@ -27,7 +27,7 @@ Item {
                 height: 40
                 opacity: 1
                 color: "#000000"
-                text: "CmGwDXv6WvM79dkKIx1UZwE15YJI532ktCBXq3zMX1Azfe7JFj"
+                text: ""
                 anchors.left: parent.left
                 anchors.right: parent.right
                 horizontalAlignment: Text.AlignHCenter
@@ -51,7 +51,7 @@ Item {
                 height: 33
                 opacity: 1
                 color: "#000000"
-                text: "3039143238-K3GIEUOMM13dC1vjdvXJMSgz9289ncF3mgDapZb"
+                text: ""
                 anchors.left: parent.left
                 anchors.right: parent.right
                 horizontalAlignment: Text.AlignHCenter
@@ -74,7 +74,7 @@ Item {
                 height: 33
                 opacity: 1
                 color: "#000000"
-                text: "mwXNcK8OUX4Uxx5aNRqGEk28A1P5OjExvHOuoxApGohsF"
+                text: ""
                 anchors.left: parent.left
                 anchors.right: parent.right
                 horizontalAlignment: Text.AlignHCenter
@@ -98,7 +98,7 @@ Item {
                 opacity: 1
                 visible: true
                 color: "#0b0b0b"
-                text: "M7NS5nExt5tyfFA0dGL65KHyU"
+                text: ""
                 anchors.left: parent.left
                 anchors.right: parent.right
                 horizontalAlignment: Text.AlignHCenter
