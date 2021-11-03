@@ -10,7 +10,8 @@ ARE you one of student of statistic ? Or are you one of the researchers investig
 
 If yes, then you should try on this application !!!
 
-![擷取](https://user-images.githubusercontent.com/79691025/139417738-12846d52-1ad3-4c2a-b1af-43ea8c4a0f23.PNG)
+![1111](https://user-images.githubusercontent.com/79691025/140162097-7fee9462-509c-4491-a946-5a30b9e4cb4d.PNG)
+
 
 In here, you can:
 
@@ -18,12 +19,14 @@ In here, you can:
   3) Search for user's follower list and friend list, and track on what he/she had sent recently even from years ago !!
   4) Filter tweets with custom keywords
 
-![2321](https://user-images.githubusercontent.com/79691025/139417155-90027c5d-bf2b-4e57-87ec-9f13cab6d276.PNG)
+![12呵12](https://user-images.githubusercontent.com/79691025/140162140-d2d29dc7-cc51-4b6c-921f-d93ab0d55d49.PNG)
+
 
 
 In struction are provide in every page to guide you what to do.
 
-![124](https://user-images.githubusercontent.com/79691025/139417199-989e3189-37a4-4bd2-b8a8-1105a1758bb3.PNG)
+![8888](https://user-images.githubusercontent.com/79691025/140162128-19a59845-fa3c-4c8c-bc21-4b832452b8fb.PNG)
+
 
 And with simply interface and operation, which is easy and high efficient to use this.
 
