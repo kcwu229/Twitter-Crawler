@@ -1,10 +1,8 @@
 # Twitter-Crawler  (for self-studying purpose)
 The GUI interface design using @Wanderson-Magalhaes's modern GUI model on Qt
 
-
-ETL on Twitter
-
-HEY, I WANT TO SHARE THIS to you !!!
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+HEY, I WANT TO SHARE THIS to you !!! 🥳🥳🥳🥳
 
 ARE you one of student of statistic ? Or are you one of the researchers investigating impact public concern on COVID-19 all over the world through socail media platform?
 
