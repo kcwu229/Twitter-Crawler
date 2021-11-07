@@ -8,8 +8,7 @@ ARE you one of student of statistic ? Or are you one of the researchers investig
 
 If yes, then you should try on this application !!!
 
-
-![1111](https://user-images.githubusercontent.com/79691025/140162097-7fee9462-509c-4491-a946-5a30b9e4cb4d.PNG)
+![擷取](https://user-images.githubusercontent.com/79691025/140644168-709475e3-11f2-42f5-9694-60cda695c3ac.PNG)
 
 
 In here, you can:
