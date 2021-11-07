@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","qml/controls/CustomTextField.qml","qml/controls/customTextField.qml","qml/controls/customButton.qml","main.py","qml/controls/CustomButton.qml"]
+}
